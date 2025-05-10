@@ -1,1 +1,1 @@
-# Siin õpib Kaspar isekeskis veebiarendust
+# gitkaspar.github.io
