@@ -6,5 +6,3 @@ layout: default
 title: Kaspari testleht
 ---
 # Tere tulemast!
-
-Selle lehe genereeris Jekyll.
